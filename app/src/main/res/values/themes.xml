@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.LeoList" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primarycolor</item>
+        <item name="colorPrimaryDark">@color/secondarycolor</item>
+        <item name="colorAccent">@color/thirdcolor</item>
+    </style>
+</resources>

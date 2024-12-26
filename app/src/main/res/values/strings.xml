@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LeoList</string>
+    <string name="hello_alif">Hello Alif Leo</string>
+    <string name="plan">Keep Plan For 1 Day</string>
+    <string name="todo">TODO</string>
+    <string name="task_navbar">Task</string>
+    <string name="menu_navbar">Menu</string>
+    <string name="celender_navbar">Celender</string>
+    <string name="mine_navbar">Mine</string>
+    <string name="create_new_task">+ Create New Task</string>
+    <string name="previous_tasks">Previous Tasks</string>
+    <string name="today_tasks">Today Tasks</string>
+    <string name="categorys">Categorys</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="title">Title</string>
+    <string name="add_sub_task">add sub-task</string>
+    <string name="category">Category</string>
+    <string name="date_time"><![CDATA[Date & Time]]></string>
+    <string name="set">Set</string>
+</resources>

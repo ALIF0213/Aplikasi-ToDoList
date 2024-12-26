@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/baseline_menu_24"
+        android:title="@string/menu_navbar" />
+
+    <item
+        android:id="@+id/navigation_task"
+        android:icon="@drawable/baseline_task_24"
+        android:title="@string/task_navbar" />
+
+    <item
+        android:id="@+id/navigation_celender"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="@string/celender_navbar" />
+
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/mine_navbar" />
+</menu>
